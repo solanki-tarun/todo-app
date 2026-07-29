@@ -34,6 +34,10 @@ A modern and responsive To-Do App built using HTML, CSS, and JavaScript.
 
 ---
 
+## Project Output
+
+![Todo App Output](output.png)
+
 ## 📂 Project Structure
 
 

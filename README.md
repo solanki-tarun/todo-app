@@ -40,7 +40,6 @@ A modern and responsive To-Do App built using HTML, CSS, and JavaScript.
 
 ## 📂 Project Structure
 
-
 todo---app/
 │── index.html
 │── style.css

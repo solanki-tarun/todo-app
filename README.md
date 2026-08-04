@@ -51,6 +51,7 @@ todo---app/
 -- add advanced level
 -- Add new style 
 -- Add new mode
+-- update 
 
 ## 👨‍💻 Author
 

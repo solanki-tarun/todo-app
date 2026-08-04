@@ -50,6 +50,7 @@ todo---app/
 ## Future Plan
 -- add advanced level
 -- Add new style 
+-- Add new mode
 
 ## 👨‍💻 Author
 

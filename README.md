@@ -33,6 +33,8 @@ A modern and responsive To-Do App built using HTML, CSS, and JavaScript.
 - JavaScript (ES6)
 
 ---
+## update 
+ -- day 1
 
 ## Project Output
 

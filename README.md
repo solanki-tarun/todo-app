@@ -35,6 +35,7 @@ A modern and responsive To-Do App built using HTML, CSS, and JavaScript.
 ---
 ## update 
  Day 1: Add local storage
+ Day 1: Add new mode
  
 ## Project Output
 

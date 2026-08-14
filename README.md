@@ -55,7 +55,7 @@ todo---app/
 -- add ui 
 -- add new system
 -- update system
--- update 2 
+-- update ui
 
 
 ## 👨‍💻 Author

@@ -54,7 +54,7 @@ todo---app/
 ## Future Plan
 -- add ui 
 -- add new system
--- update 
+-- update system
 -- update 2 
 
 

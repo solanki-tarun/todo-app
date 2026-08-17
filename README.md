@@ -52,11 +52,7 @@ todo---app/
 
 ---
 ## Future Plan
--- add ui 
--- add new system 
--- update ui
 -- update 
--- new add
 
 
 
